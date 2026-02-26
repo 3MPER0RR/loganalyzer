@@ -28,4 +28,4 @@ Designed for standard Linux SSH logs:
 ## Usage
 
 ```bash
-perl log_audit.pl <logfile>
+perl logAnalyzer.pl <logfile>
